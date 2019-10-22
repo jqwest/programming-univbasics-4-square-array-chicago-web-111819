@@ -8,5 +8,4 @@ squared_numbers = []
     puts array[counter]
     counter += 1
   end
-return squared_numbers**2
 end
