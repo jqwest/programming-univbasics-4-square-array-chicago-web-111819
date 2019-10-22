@@ -5,7 +5,7 @@ numbers = [1, 2, 3]
 squared_numbers = []
 
   while counter < array.length do
-    puts array**2[counter]
+    puts array[counter]
     counter += 1
   end
 
