@@ -8,5 +8,5 @@ squared_numbers = []
   counter += 1
   end
   return squared_numbers
-  
+
 end
